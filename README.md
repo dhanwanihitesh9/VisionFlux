@@ -4,12 +4,12 @@ VisionFlux is an intelligent computer vision application that monitors RTSP came
 
 ## Features
 
-- 🎥 **RTSP Camera Integration** - Connect to any RTSP camera feed
-- 🤖 **AI-Powered Detection** - Use modern AI models for intelligent event detection
-- 🚨 **Custom Alert System** - Configure custom prompts and get real-time notifications
-- 🌐 **Web Dashboard** - Modern web interface for monitoring and configuration
-- 📊 **Event Logging** - Track and analyze detected events over time
-- ⚡ **Real-time Processing** - Low-latency video processing and analysis
+- **RTSP Camera Integration** - Connect to any RTSP camera feed
+- **AI-Powered Detection** - Use modern AI models for intelligent event detection
+- **Custom Alert System** - Configure custom prompts and get real-time notifications
+- **Web Dashboard** - web interface for monitoring and configuration
+- **Event Logging** - Track and analyze detected events over time
+- **Real-time Processing** - Low-latency video processing and analysis
 
 ## Architecture
 
