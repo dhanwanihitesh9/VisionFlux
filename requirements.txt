@@ -1,0 +1,15 @@
+opencv-python==4.9.0.80
+numpy<2
+Pillow==10.0.0
+ultralytics==8.0.196
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.33.2
+requests==2.31.0
+python-dotenv==1.0.0
+fastapi==0.103.1
+uvicorn==0.23.2
+websockets==11.0.3
+aiofiles==23.2.1
+Jinja2==3.1.2
+python-multipart==0.0.6
